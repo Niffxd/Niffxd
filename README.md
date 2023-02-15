@@ -15,13 +15,13 @@ I'm a curious and skilled person and I like solve problems. I'm constantly devel
   <img height="50" title="ReactJS" alt="ReactJS Logo" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/512px-React-icon.svg.png?20220125121207">
 </a> &#xa0; &#xa0;
 <a href="https://es.redux.js.org/">
-  <img height="50" title="Redux" alt="Redux Logo" src="https://assets.stickpng.com/images/5848309bcef1014c0b5e4a9a.png">
+  <img height="50" title="Redux" alt="Redux Logo" src="https://i.postimg.cc/MpXsjMDR/5848309bcef1014c0b5e4a9a.png">
 </a> &#xa0; &#xa0;
 <a href="https://nodejs.org/">
   <img height="50" title="NodeJS" alt="Node Logo" src="https://i.postimg.cc/6qVkgJZK/kisspng-web-development-node-js-socket-io-javascript-netwo-modernization-5adab8119da748-395557261524.png">
 </a> &#xa0; &#xa0;
 <a href="https://www.postgresql.org/">
-  <img height="50" title="Postgres" alt="Postgres Logo" src="https://assets.stickpng.com/images/584815fdcef1014c0b5e497a.png">
+  <img height="50" title="Postgres" alt="Postgres Logo" src="https://i.postimg.cc/xjtyyjqP/584815fdcef1014c0b5e497a.png">
 </a> &#xa0; &#xa0;
 <a href="#">
   <img  height="50" title="C++" alt="C++ Logo" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/306px-ISO_C%2B%2B_Logo.svg.png">
@@ -36,10 +36,10 @@ I'm a curious and skilled person and I like solve problems. I'm constantly devel
   <img height="50" title="GitHub" alt="GitHub Logo" src="https://cdn-icons-png.flaticon.com/512/25/25231.png">
 </a> &#xa0; &#xa0;
 <a href="https://about.gitlab.com/">
-  <img height="50" title="GitLab" alt="GitLab Logo" src="https://assets.stickpng.com/images/5847f997cef1014c0b5e48c1.png">
+  <img height="50" title="GitLab" alt="GitLab Logo" src="https://i.postimg.cc/x82fXSVJ/5847f997cef1014c0b5e48c1.png">
 </a> &#xa0; &#xa0;
 <a href="https://trello.com/">
-  <img height="50" title="Trello" alt="Trello Logo" src="https://assets.stickpng.com/images/58482beecef1014c0b5e4a36.png">
+  <img height="50" title="Trello" alt="Trello Logo" src="https://i.postimg.cc/JnJ77zvC/58482beecef1014c0b5e4a36.png">
 </a> &#xa0; &#xa0;
 <a href="https://www.atlassian.com/software/jira">
   <img height="50" title="Jira" alt="Jira Logo" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/atlassian_jira_logo_icon_170511.png">
