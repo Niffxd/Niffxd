@@ -78,5 +78,5 @@ Do you want to meet me?
 
 Buy me a coffee if you like it !
 
-[![Nicolas Sanchez](https://img.shields.io/badge/Nicolas_Sanchez-00457C?style=for-the-badge&logo=PayPal&logoColor=white)](https://www.linkedin.com/in/nirsanchez/)
+[![Nicolas Sanchez](https://img.shields.io/badge/Nicolas_Sanchez-00457C?style=for-the-badge&logo=PayPal&logoColor=white)](https://paypal.me/Niffxd22?country.x=AR&locale.x=es_XC)
 
